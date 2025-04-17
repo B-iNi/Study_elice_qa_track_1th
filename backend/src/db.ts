@@ -1,0 +1,1 @@
+mongoose.connect("mongodb+srv://gandalfzzing:O2pXtXYx56p76xFI@cluster0.mwjhp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
